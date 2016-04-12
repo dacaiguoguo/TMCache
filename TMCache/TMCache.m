@@ -1,6 +1,6 @@
 #import "TMCache.h"
 
-NSString * const TMCachePrefix = @"com.tumblr.TMCache";
+NSString * const TMCachePrefix = @"com.Lvmama.TMCache";
 NSString * const TMCacheSharedName = @"TMCacheShared";
 
 @interface TMCache ()
