@@ -11,7 +11,7 @@
 
 static id <TMCacheBackgroundTaskManager> TMCacheBackgroundTaskManager;
 
-NSString * const TMDiskCachePrefix = @"com.tumblr.TMDiskCache";
+NSString * const TMDiskCachePrefix = @"com.Lvmama.TMDiskCache";
 NSString * const TMDiskCacheSharedName = @"TMDiskCacheShared";
 
 @interface TMDiskCache ()
